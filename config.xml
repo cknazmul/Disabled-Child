@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.disabledchild" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Special Child</name>
+    <name>প্রতিবন্ধী শিশু</name>
     <description>
        প্রতিবন্ধী শিশু – পিতামাতা এবং আমাদের করণীয়
     </description>
