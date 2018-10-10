@@ -8,10 +8,10 @@
     </feature>
     <name>প্রতিবন্ধী শিশু</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        প্রতিবন্ধী শিশু – পিতামাতা এবং আমাদের করণীয়
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+        Md. Nazmul Hosan
     </author>
     <content src="index.html" />
     <access origin="*" />
